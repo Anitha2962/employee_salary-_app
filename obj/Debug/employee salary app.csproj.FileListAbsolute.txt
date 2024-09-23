@@ -1,0 +1,7 @@
+D:\EQ SOFT\C#\employee salary app\bin\Debug\employee salary app.exe.config
+D:\EQ SOFT\C#\employee salary app\bin\Debug\employee salary app.exe
+D:\EQ SOFT\C#\employee salary app\bin\Debug\employee salary app.pdb
+D:\EQ SOFT\C#\employee salary app\obj\Debug\employee salary app.csproj.AssemblyReference.cache
+D:\EQ SOFT\C#\employee salary app\obj\Debug\employee salary app.csproj.CoreCompileInputs.cache
+D:\EQ SOFT\C#\employee salary app\obj\Debug\employee salary app.exe
+D:\EQ SOFT\C#\employee salary app\obj\Debug\employee salary app.pdb
